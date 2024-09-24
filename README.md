@@ -1,34 +1,4 @@
-<a name="readme-top"></a>
 
-<div align="center">
-  <!-- <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="50"  height="auto" /> -->
-  <!-- <br/> -->
-  <h3><b>Microverse README</b></h3>
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 To Do List App ](#-to-do-list-app-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Run tests ](#run-tests-)
-    - [Deployment ](#deployment-)
-  - [Author](#author)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ ](#-faq-)
-  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
