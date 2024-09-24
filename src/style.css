@@ -60,11 +60,11 @@ input:checked + input {
 }
 
 .list li:nth-child(2n + 1) {
-  background-color: #eee;
+  background-color: #df2ea7;
 }
 
 button.clear {
-  background-color: #808080;
+  background-color: #0cead3;
 }
 
 img {
