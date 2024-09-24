@@ -24,7 +24,7 @@ div.title,
 div.form-text,
 li.checkbox,
 button.clear {
-  border: 1px solid #80808021;
+  border: 1px solid #d6281121;
   padding: 0.5rem 0;
 }
 
@@ -47,7 +47,7 @@ input[type='text'] {
 
 input:checked + input {
   text-decoration: line-through;
-  color: #ccc;
+  color: #e47c7c;
   font-style: italic;
 }
 
@@ -60,7 +60,7 @@ input:checked + input {
 }
 
 .list li:nth-child(2n + 1) {
-  background-color: #eee;
+  background-color: #1aa2c4;
 }
 
 button.clear {
